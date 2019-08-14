@@ -1,7 +1,7 @@
 The Immersive Web Working Group/Community Group
 =================================================
 
-Links to our specifications, samples, and tools
+Links to our specifications, samples, and tools.
 
 Specifications
 --------------
@@ -16,3 +16,9 @@ Samples
 Tools
 -----
   - [WebXR Input Profiles](https://immersive-web.github.io/webxr-input-profiles/)
+
+Organization Pages
+------------------
+  - [GitHub](https://github.com/immersive-web)
+  - [W3C](https://www.w3.org/immersive-web/)
+  
