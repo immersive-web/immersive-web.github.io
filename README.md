@@ -20,5 +20,6 @@ Tools
 Organization Pages
 ------------------
   - [**GitHub**](https://github.com/immersive-web)
-  - [**W3C**](https://www.w3.org/immersive-web/)
+  - [**W3C Working Group**](https://www.w3.org/immersive-web/)
+  - [**W3C Community Group**](https://www.w3.org/community/immersive-web/)
   
