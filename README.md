@@ -22,4 +22,36 @@ Organization Pages
   - [**GitHub**](https://github.com/immersive-web)
   - [**W3C Working Group**](https://www.w3.org/immersive-web/)
   - [**W3C Community Group**](https://www.w3.org/community/immersive-web/)
-  
+
+Organization Repos
+------------------
+
+- [proposals](https://github.com/immersive-web/proposals) is where we discuss possible future standards work.
+
+### Feature Incubations
+
+Repositories where we work on specific standards before they are taken in by a working group.
+
+- [anchors](https://github.com/immersive-web/anchors)
+- [hit-test](https://github.com/immersive-web/hit-test)
+- [navigation](https://github.com/immersive-web/navigation)
+- [dom-overlays](https://github.com/immersive-web/dom-overlays)
+- [computer-vision](https://github.com/immersive-web/computer-vision)
+- [geo-alignment](https://github.com/immersive-web/geo-alignment)
+- [layers](https://github.com/immersive-web/layers)
+- [lighting-estimation](https://github.com/immersive-web/lighting-estimation)
+- [real-world-geometry](https://github.com/immersive-web/real-world-geometry)
+- [spatial-favicon](https://github.com/immersive-web/spatial-favicons)
+
+### Foundational Concepts
+
+Repositories where we discuss cross-API topics related to the immersive web.
+
+- privacy-and-security
+- ar-common
+
+### Miscellaneous
+
+- adminitrivia
+- community-resources
+- [immersive-web.github.io](https://github.com/immersive-web/immersive-web.github.io)
