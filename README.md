@@ -47,11 +47,11 @@ Repositories where we work on specific standards before they are taken in by a w
 
 Repositories where we discuss cross-API topics related to the immersive web.
 
-- privacy-and-security
-- ar-common
+- [privacy-and-security](https://github.com/immersive-web/privacy-and-security)
+- [ar-common](https://github.com/immersive-web/ar-common)
 
 ### Miscellaneous
 
-- adminitrivia
-- community-resources
+- [administrivia](https://github.com/immersive-web/administrivia)
+- [community-resources](https://github.com/immersive-web/community-resources)
 - [immersive-web.github.io](https://github.com/immersive-web/immersive-web.github.io)
