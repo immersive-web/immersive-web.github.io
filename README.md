@@ -5,7 +5,7 @@ Links to our specifications, samples, and tools.
 
 Specifications
 --------------
-  - [**WebXR Device API**](https://immersive-web.github.io/webxr/) ([Source](https://github.com/immersive-web/webxr), [Issues](https://github.com/immersive-web/webxr/issues))
+  - [**WebXR Device API**](https://immersive-web.github.io/webxr/) ([Source](https://github.com/immersive-web/webxr), [Issues](https://github.com/immersive-web/webxr/issues), [Explainer](https://github.com/immersive-web/webxr/blob/master/explainer.md))
   - [**WebXR Gamepads Module - Level 1**](https://immersive-web.github.io/webxr-gamepads-module/) ([Source](https://github.com/immersive-web/webxr-gamepads-module), [Issues](https://github.com/immersive-web/webxr-gamepad-module/issues))
   - [**WebXR Augmented Reality Module - Level 1**](https://immersive-web.github.io/webxr-ar-module/) ([Source](https://github.com/immersive-web/webxr-ar-module), [Issues](https://github.com/immersive-web/webxr-ar-module/issues))
 
