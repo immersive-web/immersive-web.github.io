@@ -8,6 +8,9 @@ Specifications
   - [**WebXR Device API**](https://immersive-web.github.io/webxr/) ([Source](https://github.com/immersive-web/webxr), [Issues](https://github.com/immersive-web/webxr/issues), [Explainer](https://github.com/immersive-web/webxr/blob/master/explainer.md))
   - [**WebXR Gamepads Module - Level 1**](https://immersive-web.github.io/webxr-gamepads-module/) ([Source](https://github.com/immersive-web/webxr-gamepads-module), [Issues](https://github.com/immersive-web/webxr-gamepads-module/issues))
   - [**WebXR Augmented Reality Module - Level 1**](https://immersive-web.github.io/webxr-ar-module/) ([Source](https://github.com/immersive-web/webxr-ar-module), [Issues](https://github.com/immersive-web/webxr-ar-module/issues))
+  - [**WebXR Hit Test Module**](https://immersive-web.github.io/hit-test) ([Source](https://github.com/immersive-web/hit-test), [Issues](https://github.com/immersive-web/hit-test/issues), [Explainer](https://github.com/immersive-web/hit-test/blob/master/hit-testing-explainer.md))
+  - [**WebXR DOM Overlays Module**](https://immersive-web.github.io/dom-overlays) ([Source](https://github.com/immersive-web/dom-overlays), [Issues](https://github.com/immersive-web/dom-overlays/issues), [Explainer](https://github.com/immersive-web/dom-overlays/blob/master/explainer.md))
+  - [**WebXR Layers API Level 1**](https://immersive-web.github.io/layers/) ([Source](https://github.com/immersive-web/layers), [Issues](https://github.com/immersive-web/layers/issues), [Explainer](https://github.com/immersive-web/layers/blob/master/explainer.md))
 
 Samples
 -------
@@ -34,12 +37,9 @@ Organization Repos
 Repositories where we work on specific standards before they are taken in by a working group.
 
 - [anchors](https://github.com/immersive-web/anchors)
-- [hit-test](https://github.com/immersive-web/hit-test)
 - [navigation](https://github.com/immersive-web/navigation)
-- [dom-overlays](https://github.com/immersive-web/dom-overlays)
 - [computer-vision](https://github.com/immersive-web/computer-vision)
 - [geo-alignment](https://github.com/immersive-web/geo-alignment)
-- [layers](https://github.com/immersive-web/layers)
 - [lighting-estimation](https://github.com/immersive-web/lighting-estimation)
 - [real-world-geometry](https://github.com/immersive-web/real-world-geometry)
 - [spatial-favicon](https://github.com/immersive-web/spatial-favicons)
