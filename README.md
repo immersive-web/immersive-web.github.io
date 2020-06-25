@@ -43,6 +43,8 @@ Repositories where we work on specific standards before they are taken in by a w
 - [lighting-estimation](https://github.com/immersive-web/lighting-estimation)
 - [real-world-geometry](https://github.com/immersive-web/real-world-geometry)
 - [spatial-favicon](https://github.com/immersive-web/spatial-favicons)
+- [Performance Improvements](https://github.com/immersive-web/performance-improvements)
+- [WebXR Hands Input](https://github.com/immersive-web/webxr-hands-input)
 
 ### Foundational Concepts
 
