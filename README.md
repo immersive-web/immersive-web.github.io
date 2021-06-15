@@ -20,6 +20,7 @@ Tools
 -----
   - [**WebXR Input Profiles**](https://immersive-web.github.io/webxr-input-profiles/) ([Source](https://github.com/immersive-web/webxr-input-profiles), [Issues](https://github.com/immersive-web/webxr-input-profiles/issues))
   - [**WebXR Polyfill**](https://github.com/immersive-web/webxr-polyfill)
+  - [**WebXR Layers Polyfill**](https://github.com/immersive-web/webxr-layers-polyfill)
 
 Organization Pages
 ------------------
