@@ -11,6 +11,9 @@ Specifications
   - [**WebXR Hit Test Module**](https://immersive-web.github.io/hit-test) ([Source](https://github.com/immersive-web/hit-test), [Issues](https://github.com/immersive-web/hit-test/issues), [Explainer](https://github.com/immersive-web/hit-test/blob/master/hit-testing-explainer.md))
   - [**WebXR DOM Overlays Module**](https://immersive-web.github.io/dom-overlays) ([Source](https://github.com/immersive-web/dom-overlays), [Issues](https://github.com/immersive-web/dom-overlays/issues), [Explainer](https://github.com/immersive-web/dom-overlays/blob/master/explainer.md))
   - [**WebXR Layers API Level 1**](https://immersive-web.github.io/layers/) ([Source](https://github.com/immersive-web/layers), [Issues](https://github.com/immersive-web/layers/issues), [Explainer](https://github.com/immersive-web/layers/blob/master/explainer.md))
+  - [**WebXR Anchors Module**](https://immersive-web.github.io/anchors/) ([Source](https://github.com/immersive-web/anchors), [Issues](https://github.com/immersive-web/anchors/issues), [Explainer](https://github.com/immersive-web/anchors/blob/main/explainer.md))
+  - [**WebXR Lighting Estimation API Level 1**](https://immersive-web.github.io/lighting-estimation/) ([Source](https://github.com/immersive-web/lighting-estimation), [Issues](https://github.com/immersive-web/lighting-estimation/issues), [Explainer](https://github.com/immersive-web/lighting-estimation/blob/main/lighting-estimation-explainer.md))
+  - [**WebXR Hand Input Module - Level 1**](https://immersive-web.github.io/webxr-hand-input/) ([Source](https://github.com/immersive-web/webxr-hands-input), [Issues](https://github.com/immersive-web/webxr-hands-input/issues), [Explainer](https://github.com/immersive-web/webxr-hand-input/blob/main/explainer.md))
 
 Samples
 -------
@@ -37,15 +40,12 @@ Organization Repos
 
 Repositories where we work on specific standards before they are taken in by a working group.
 
-- [anchors](https://github.com/immersive-web/anchors)
 - [navigation](https://github.com/immersive-web/navigation)
 - [computer-vision](https://github.com/immersive-web/computer-vision)
 - [geo-alignment](https://github.com/immersive-web/geo-alignment)
-- [lighting-estimation](https://github.com/immersive-web/lighting-estimation)
 - [real-world-geometry](https://github.com/immersive-web/real-world-geometry)
 - [spatial-favicon](https://github.com/immersive-web/spatial-favicons)
 - [Performance Improvements](https://github.com/immersive-web/performance-improvements)
-- [WebXR Hands Input](https://github.com/immersive-web/webxr-hands-input)
 - [WebGPU Bindings](https://github.com/immersive-web/WebXR-WebGPU-Binding)
 
 ### Foundational Concepts
