@@ -5,12 +5,12 @@
   let newTarget = 'https://immersive-web.github.io/webxr-webgpu-binding/';
 
   let currentHash = window.location.hash;
-  let newLocation = newTarget+ currentHash;
+  let newLocation = newTarget + currentHash;
+  document.getElementById('newlink').innerText = newTarget;
+  document.getElementById('newlink').href = newTarget;
   window.location = newLocation;
 </script>
 <title>Moved…</title>
 </head>
-<p>
-  Moved to <a href="https://immersive-web.github.io/webxr-webgpu-binding/">https://immersive-web.github.io/webxr-webgpu-binding/</a>
-</p>
+<p>Moved to <a id="movelink"></a></p>
 </body>
