@@ -1,0 +1,18 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<script>
+  let newTarget = 'https://immersive-web.github.io/webxr-webgpu-binding/explainer.html';
+
+window.addEventListener('DOMContentLoaded', function() {
+  let currentHash = window.location.hash;
+  let newLocation = newTarget + currentHash;
+  document.getElementById('newlink').innerText = newTarget;
+  document.getElementById('newlink').href = newTarget;
+  window.location = newLocation;
+});
+</script>
+<title>Moved…</title>
+</head>
+<p>Moved to <a id="movelink"></a></p>
+</body>
